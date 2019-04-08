@@ -10,7 +10,7 @@ Currently this interpretation of genetic mutations is being done manually. This 
 
 We need to develop a Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations.
 
-This problem was a competition posted on Kaggle with a award of $15,000. This was launched by  Memorial Sloan Kettering Cancer Center (MSKCC), accepted by NIPS 2017 Competition Track,  because we need your help to take personalized medicine to its full potential.
+This problem was a competition posted on Kaggle with a award of $15,000. This was launched by  Memorial Sloan Kettering Cancer Center (MSKCC), accepted by NIPS 2017 Competition Track.
 
 
 You can check all details about the competition from following link :
