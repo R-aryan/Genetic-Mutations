@@ -1,4 +1,4 @@
-# Genetic-Mutations
+# Genetic Mutations
 
 # Problem statement
 
