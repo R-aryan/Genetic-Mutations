@@ -27,4 +27,7 @@ This project requires **Python 2.7 or above for the purpose** and the following 
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+
+It is recommended to install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project
 
