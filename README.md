@@ -15,3 +15,10 @@ This problem was a competition posted on Kaggle with a award of $15,000. This wa
 
 You can check all details about the competition from following link :
 https://www.kaggle.com/c/msk-redefining-cancer-treatment
+
+
+### Required Installations
+
+This project requires **Python 2.7 or above for the purpose** and the following Python libraries installed:
+
+- [For Python Latest version Checkout this Link](https://www.python.org/downloads/)
